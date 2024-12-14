@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Attack from the kernel - Defend from the soul</title>
- <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoulatom.xml" rel="self"/>
+ <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/atom.xml" rel="self"/>
  <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul"/>
- <updated>2024-12-14T19:10:56-03:00</updated>
+ <updated>2024-12-14T19:29:49-03:00</updated>
  <id>https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul</id>
  <author>
    <name>Federico Bruzone</name>

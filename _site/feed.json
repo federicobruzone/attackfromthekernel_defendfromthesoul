@@ -1,7 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Attack from the kernel - Defend from the soul",
-#"home_page_url": "https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/",
     "home_page_url": "https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/",
     "feed_url": "https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/feed.json",
     "description": "Attack from the kernel - Defend from the soul",
