@@ -7,8 +7,8 @@ layout: null
     "home_page_url": "https://github.com/federicobruzone/attackfromthekernel_defendfromthesoul/",
     "feed_url": "{{ "/feed.json" | absolute_url }}",
     "description": {{ site.description | jsonify }},
-    "icon": "{{ "assets/images/apple-touch-icon.png" | absolute_url }}",
-    "favicon": "{{ "assets/images/favicon.png" | absolute_url }}",
+    "icon": "{{ "assets/images/apple-touch-icon.png" | relative_url }}",
+    "favicon": "{{ "assets/images/favicon.png" | relative_url }}",
     "expired": false,
     {% if site.author %}
     "author": {% if site.author.name %} {
@@ -20,12 +20,12 @@ layout: null
 "items": [
     {% for post in site.posts limit:36 %}
         {
-            "id": "{{ post.url | absolute_url | sha1 }}",
+            "id": "{{ post.url | relative_url | sha1 }}",
             "title": {{ post.title | jsonify }},
             "summary": {{ post.description | jsonify }},
             "content_text": {{ post.content | strip_html | strip_newlines | jsonify }},
             "content_html": {{ post.content | strip_newlines | jsonify }},
-            "url": "{{ post.url | absolute_url }}",
+            "url": "{{ post.url | relative_url }}",
             {% if post.image.size > 1 %}"image": {{ post.image | jsonify }},{% endif %}
             {% if post.link.size > 1 %}"external_url": "{{ post.link }}",{% endif %}
             {% if post.banner.size > 1 %}"banner_image": "{{ post.banner }}",{% endif %}
