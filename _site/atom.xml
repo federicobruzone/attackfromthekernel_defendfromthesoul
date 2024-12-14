@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Attack from the kernel - Defend from the soul</title>
- <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/atom.xml" rel="self"/>
- <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/"/>
- <updated>2024-12-14T18:54:50-03:00</updated>
- <id>https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul</id>
+ <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul//atom.xml" rel="self"/>
+ <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul//"/>
+ <updated>2024-12-14T18:58:54-03:00</updated>
+ <id>https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/</id>
  <author>
    <name>Federico Bruzone</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>A Tragic History of Argentine Computing.</title>
-   <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/A-Tragic-History-of-Argentine-Computing/"/>
+   <link href="https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul//A-Tragic-History-of-Argentine-Computing/"/>
    <updated>2024-12-13T21:00:00-03:00</updated>
-   <id>https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/A-Tragic-History-of-Argentine-Computing</id>
+   <id>https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul//A-Tragic-History-of-Argentine-Computing</id>
    <content type="html">&lt;p&gt;Lorem markdownum feriam: vir, vulnere cum postquam ocius, ecce. Exsangui totiens
 generis &lt;a href=&quot;http://www.fertur.io/aeacidis&quot;&gt;Iuppiter&lt;/a&gt; dederunt cerva refoventque,
 mea nulla secessit modo et. Hospes &lt;strong&gt;felices stetimusque&lt;/strong&gt; erat: &lt;strong&gt;Niobe
