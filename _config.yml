@@ -15,8 +15,7 @@ author:
 
 
 # URL settings
-url: "https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/"
-baseurl: "https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/_site/" 
+url: "https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul"
 permalink: pretty
 
 markdown: kramdown
