@@ -1,1 +1,1 @@
-Sitemap: https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul/sitemap.xml
+Sitemap: https://federicobruzone.github.io/attackfromthekernel_defendfromthesoul//sitemap.xml
