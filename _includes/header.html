@@ -7,7 +7,7 @@
 		<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 		<meta name="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
 		<meta name="keywords" content="{% if page.tags %}{{page.tags}}{% else %}{{site.keywords}}{% endif %}">
-		<base href="{{ site.url }}" />
+		<base href="{{ site.url }}/" />
 		{% if page.date %}
     	<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
     	<meta content="{{ site.url }}/about/" property="article:author">
