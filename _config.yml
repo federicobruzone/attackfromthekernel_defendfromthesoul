@@ -1,0 +1,72 @@
+# Site settings
+site: attackfromthekernel_defendfromthesoul
+title: Attack from the kernel - Defend from the soul
+keywords: blog
+description: >-
+  Attack from the kernel - Defend from the soul
+lang: en-US
+timezone:  America/Argentina/Buenos_Aires
+
+# Author settings
+author:
+  name: Federico Bruzone
+  bio: Professor of History, Arabist Extraordinaire, <br> Classicist, Numismatist <br> Techpriest Apprentice
+  picture: assets/images/profile.jpg 
+
+
+# URL settings
+url: "https://federicobruzone.github.io/"
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+exclude:
+  - .jekyll-cache
+  - .obsidian
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
+paginate: 20
+paginate_path: "/page/:num"
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+relative_links:
+  enabled:     true
+  collections: false
