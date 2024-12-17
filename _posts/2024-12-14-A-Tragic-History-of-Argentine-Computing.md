@@ -7,14 +7,13 @@ permalink: /A-Tragic-History-of-Argentine-Computing/
 categories: History
 tags: [history, computing]
 ---
-Lorem markdownum feriam: vir, vulnere cum postquam ocius, ecce. Exsangui totiens
-generis [Iuppiter](http://www.fertur.io/aeacidis) dederunt cerva refoventque,
-mea nulla secessit modo et. Hospes **felices stetimusque** erat: **Niobe
-nostro**, ne ruris *in deas extrema*. Thebaides crimina, tu dixerat eripiet
-quiescere animae, pervenientia fuit furta sacrata illam, dabat. Quod munera
-monstra rimas ultra cunctos.
+![Cifra 311](./assets/images/Cifra-311.jpg "Cifra 311")
 
-Incipit pars telis quod colebat tenet Iovis, Perseus et non Hectoris caesae temperat tetigere pulvis? Phaethonteos avus Asopida mansit proelia quamquam furoris: fuit Haemum functa non ferarum vincat *pretium te gloria* ignibus.
+*This is a translation from an [article by Daniel Arias](https://agendarweb.com.ar/2020/12/20/la-industria-electronica-argentina-la-de-brasil-y-el-mercosur-que-no-fue/), a distinguished Argentine science journalist. Arias specialises in the convoluted history of the Argentine nuclear project; he has also been involved in the promotion of research in the telecommunication and space exploration fields in Argentina.*
+
+![Manuel Sadosky](./assets/images/Manuel-Sadosky-1.jpg "Manuel Sadosky")
+
+*Argentine mathematician Manuel Sadosky (1914-2005), Argentina's foremost pioneer in the scientific field of Computer Science. Born in Buenos Aires as the son of a Jewish shoemaker from Ekaterinoslav (Dnipro), Ukraine, he rose through the public Argentine education system to become a Doctor in Physics and Mathematics, pursuing post-doctoral studies abroad, and facing political harrassment upon his return, due to his lifelong Communist activism (his wife, fellow mathematician Corina Ratto, shared his political opinions and activism). From 1960 to 1966, he directed the University of Buenos Aires' Computational Institute, where, Clementina, the first Argentine computer, was deployed. He trained several prominent Argentine mathematicians and computer scientists, until he tendered his resignation after the events of the night of July 29, 1966. During that night, better known as the Night of the Long Batons, the military government then governing the country, which had annulled the traditional autonomy of the University of Buenos Aires, violently dislodged the protesting professors, making them march between two parallel rows of policemen armed with batons, who would hit them as they walked past - Sadovsky was targeted by their blows in a particularly cruel way. Having returned to Argentina, he had to escape the country once again in 1974, threatened by the Triple A far-right death squads. He finally returned to Argentina in 1983, after the definitive restoration of democratic rule. Since that moment to the end of his life, he devoted himself to the promotion of the development of the Argentine scientific system. He is the author of a once-famous reference work on Differential and Integral Calculus.*
 
 ## Potum maius urbem
 
@@ -76,3 +75,5 @@ Cecropio telorum *ultima*, est non [est](http://manus.io/est), sim desiluit
 solida; fecit. Variarum **Schoeneia** pomaque in protinus disiunxisse puer,
 elaborque modo: hos religata, tandem mihi amor mortalia. Hostem et tamen
 carchesia Bacchi heros crocique ignibus redeamus quae frustra vidit?
+
+![Cifra 211](./assets/images/Cifra-211.jpg "Cifra 211")
